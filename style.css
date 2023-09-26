@@ -1,1 +1,14 @@
 /* write your code here */
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.container {
+  width: 90%;
+}
+
+.title1,
+.footer {
+  text-align: center;
+}
